@@ -9,7 +9,7 @@ public class playerController : MonoBehaviour {
 	public boardManager bm;
 	private int lower_x, lower_y, upper_x, upper_y;//the bounds for legal moves
 	private int[,] moves = new int[2,4] { {0, 0, -1, 1}, {-1, 1, 0, 0}};//to determine the coords of the next move
-
+	private 
 	void Awake(){
 		lower_x = -2;//TO CHANGE TO REFLECT THE ROWS AND COLS FROM boardManager
 		upper_x = 2;
@@ -54,6 +54,8 @@ public class playerController : MonoBehaviour {
 
 		if(move > -1 && inRange(x+moves[0, move], y+moves[1, move])){
 			makeMove (move);
+			AudioSource audio = GetComponent<AudioSource>();
+			audio.Play();
 			Debug.Log ("x = " + x + " y= " + y);
 		}
 	}
