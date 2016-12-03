@@ -19,3 +19,11 @@ C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.N
 C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\obj\Debug\Assembly-CSharp.dll
 C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Temp\bin\Debug\UnityEngine.VR.xml
