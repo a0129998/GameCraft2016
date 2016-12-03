@@ -17,7 +17,7 @@ Platform assembly: C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Mocochoco
 Loading C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Mocochoco_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Mocochoco_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Mocochoco_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.029 seconds
+- Completed reload, in  0.025 seconds
 Platform assembly: C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Mocochoco_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Wu XiaoXiao\Documents\GitHub\GameCraft2016\Mocochoco_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
@@ -25,9 +25,9 @@ desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.452596 ms
+UnloadTime: 3.215104 ms
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.535272 ms
+UnloadTime: 4.998849 ms
 level 0
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -45,8 +45,8 @@ initgame at level 1
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 531.
-Total: 0.300640 ms (FindLiveObjects: 0.040627 ms CreateObjectMapping: 0.033784 ms MarkObjects: 0.209122 ms  DeleteObjects: 0.016678 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 530.
+Total: 0.264717 ms (FindLiveObjects: 0.043620 ms CreateObjectMapping: 0.032929 ms MarkObjects: 0.174055 ms  DeleteObjects: 0.013684 ms)
 
 added health
  
@@ -61,62 +61,58 @@ trigger win
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.815964 ms
+UnloadTime: 0.470419 ms
 initgame at level 1
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 677.
-Total: 1.260724 ms (FindLiveObjects: 0.112473 ms CreateObjectMapping: 0.049180 ms MarkObjects: 0.473840 ms  DeleteObjects: 0.624375 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 676.
+Total: 0.564075 ms (FindLiveObjects: 0.043620 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.180897 ms  DeleteObjects: 0.322023 ms)
 
 added health
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-added health
+player lost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-player won
+playerlost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-trigger win
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+playerlost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.480683 ms
-initgame at level 1
+playerlost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 719.
-Total: 0.456307 ms (FindLiveObjects: 0.022665 ms CreateObjectMapping: 0.010691 ms MarkObjects: 0.142836 ms  DeleteObjects: 0.280113 ms)
-
-added health
+playerlost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-added health
+playerlost
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-player won
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-trigger win
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.560226 ms
+UnloadTime: 1.201708 ms
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 332.
-Total: 1.064003 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.011119 ms MarkObjects: 0.130862 ms  DeleteObjects: 0.909620 ms)
+Total: 1.322734 ms (FindLiveObjects: 0.031646 ms CreateObjectMapping: 0.031218 ms MarkObjects: 0.351959 ms  DeleteObjects: 0.906626 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.387454 ms
+initgame at level 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 0.511902 ms (FindLiveObjects: 0.068852 ms CreateObjectMapping: 0.050890 ms MarkObjects: 0.371203 ms  DeleteObjects: 0.019672 ms)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 155c -> priority: 1 
+  Thread -> id: 208c -> priority: 1 

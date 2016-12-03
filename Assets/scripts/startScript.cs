@@ -6,12 +6,12 @@ using UnityEngine.SceneManagement;
 public class startScript : MonoBehaviour {
 
 	// Use this for initialization
-	public Canvas c;
+	//public Canvas c;
 	
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown (KeyCode.Space)) {
-			c.enabled = false;
+			//c.enabled = false;
 			SceneManager.LoadScene ("scene1", LoadSceneMode.Single);
 		}
 	}
